@@ -1,0 +1,6 @@
+1,ICICI,505454,1,Pending
+2,Yes Bank,505100,2,Completed
+3,SBI,606100,4,Pending
+4,CitiBank,512100,3,Completed
+5,Axis Bank,606012,6,Pending
+6,Indian Bank,515545,5,Completed
